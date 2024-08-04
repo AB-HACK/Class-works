@@ -87,3 +87,5 @@ public class employee {
         Employee.displayBiodata();
     }
 }
+
+// one of the longest java code i had to learn
